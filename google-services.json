@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "530337449020",
+    "project_id": "loginapp-98fe6",
+    "storage_bucket": "loginapp-98fe6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530337449020:android:0bb8ffb4f9fd56bebeaf39",
+        "android_client_info": {
+          "package_name": "com.codingstuff.loginandsignup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHrubEA92imDz4FroQ1wuXfRPpiw74BwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
